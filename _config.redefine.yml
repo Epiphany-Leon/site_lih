@@ -171,13 +171,13 @@ home_banner:
     # Social links
     links:
       github: https://github.com/Epiphany-Leon # your GitHub URL
-      fa-brands fa-x-twitter: https://x.com/golhng6 # your twitter URL
+      fa-brands fa-square-x-twitter: https://x.com/golhng6 # your twitter URL
       weixin: https://mp.weixin.qq.com/mp/homepage?__biz=MzkxNjMxODc3Nw==&hid=1&sn=29646593c02cb16fe5b7f61b9180fb49&scene=18#wechat_redirect
       email: lihong_gao828@protonmail.com # your email
       # ...... # you can add more
     # Social links with QRcode drawers
     qrs:
-      # your Wechat QRcode image URL
+      weixin: /images/QRCode.jpg # your Wechat QRcode image URL
       # ...... # you can add more
 # HOME BANNER <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
