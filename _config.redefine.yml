@@ -17,7 +17,7 @@ info:
   # Author name
   author: Lihong Gao
   # Site URL
-  url: https://epiphany-leon.github.io/site_lih/
+  url: https://epiphany-leon.github.io/site_lih
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -93,7 +93,7 @@ global:
   # Whether to enable open graph
   open_graph:
     enable: true
-    image: /images/Big Sur Horizon.jpg  # default og:image
+    image: /images/Big Sur Horizon.webp  # default og:image
     description: There is no royal road to learning.
   # Google Analytics
   google_analytics:
@@ -393,7 +393,7 @@ footer:
   # Icon in footer, write fontawesome icon code here
   icon: '<i class="fa-solid fa-heart fa-beat"></i>'
   # The start time of the website, format: YYYY/MM/DD HH:mm:ss
-  start: 2025/02/15 10:48:12
+  start: 2025/02/18 10:48:12
   # Site statistics
   statistics: true # show site statistics or not (total articles, total words)
   # Footer message
