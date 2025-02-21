@@ -3,7 +3,7 @@ title: About me
 date: 2025-02-21
 ---
 
-:wave: ​Hi, this is Lihong Gao.
+👋 ​Hi, this is Lihong Gao.
 
 - I am an *undergraduate* student at [Shanghai University of Internatinal Business and Economics](https://www.suibe.edu.cn/), majoring in **Finance**.
 - **My Blogs:**
