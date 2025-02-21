@@ -208,7 +208,7 @@ navbar:
     #   path: https://status.ohevan.com/
     #   icon: fa-regular fa-chart-bar
     About: 
-      path: /about/ME.md
+      path: /about/
       icon: fa-regular fa-user
     Links: 
       icon: fa-regular fa-link
