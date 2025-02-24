@@ -201,9 +201,9 @@ navbar:
     Home: 
       path: / 
       icon: fa-regular fa-house # can be empty
-    Gallery:
-      path: /masonry/
-      icon: fa-solid fa-image # can be empty
+    # Gallery:
+    #   path: /masonry/
+    #   icon: fa-solid fa-image # can be empty
     Archives: 
       path: /archives
       icon: fa-regular fa-archive # can be empty
