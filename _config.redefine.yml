@@ -243,10 +243,10 @@ home:
         path: /archives 
         icon: fa-regular fa-archive # can be empty
       Tags: 
-        path: /tags 
+        path: /tags/
         icon: fa-regular fa-tags # can be empty
       Categories: 
-        path: /categories 
+        path: /categories/
         icon: fa-regular fa-folder # can be empty
       # ...... # you can add more
   # Article date format
