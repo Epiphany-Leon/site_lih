@@ -104,3 +104,9 @@ deploy:
   type: 'git'
   repo: https://epiphany-leon.github.io/site_lih
   branch: gh-pages
+
+# Photo Redering by markdown
+post_asset_folder: true
+marked:
+  prependRoot: true
+  postAsset: true
