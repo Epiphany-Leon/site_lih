@@ -52,9 +52,9 @@ global:
   fonts:
     # Chinese fonts
     chinese: 
-      enable: false # Whether to enable custom chinese fonts
-      family:  # Font family
-      url:  # Font URL to CSS file
+      enable: true # Whether to enable custom chinese fonts
+      family:  'Maple Mono' # Font family
+      url:  https://cdn.jsdelivr.net/fontsource/fonts/maple-mono@latest/latin-400-normal.woff2  # Font URL to CSS file
     # English fonts
     english: 
       enable: false # Whether to enable custom english fonts
@@ -270,7 +270,7 @@ articles:
   # Set the styles of the article
   style:
     font_size: 16px # Font size
-    line_height: 1.5 # Line height
+    line_height: 1.6 # Line height
     image_border_radius: 14px # image border radius
     image_alignment: center # image alignment. left, center
     image_caption: false # Whether to display image caption
@@ -302,9 +302,9 @@ articles:
       light: github # light mode theme, support: github, atom-one-light, default
       dark: vs2015 # dark mode theme, support: github-dark, monokai-sublime, vs2015, night-owl, atom-one-dark, nord, tokyo-night-dark, a11y-dark, agate
     font: # Custom font
-      enable: false # Whether to enable
-      family: # Font family
-      url: # Font URL to CSS file
+      enable: true # Whether to enable
+      family: 'Maple Mono' # Font family
+      url: https://cdn.jsdelivr.net/fontsource/fonts/maple-mono@latest/latin-400-normal.woff2 # Font URL to CSS file
   # Table of contents settings
   toc:
     enable: true # Whether to enable TOC
