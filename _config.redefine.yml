@@ -93,7 +93,7 @@ global:
   # Whether to enable open graph
   open_graph:
     enable: true
-    image: /images/Big Sur Horizon.webp  # default og:image
+    image: /images/mountains-island-morning-foggy-stock.jpg  # default og:image
     description: There is no royal road to learning.
   # Google Analytics
   google_analytics:
@@ -125,8 +125,8 @@ home_banner:
   style: fixed # static or fixed
   # Home banner image
   image: 
-    light: /images/Big Sur Horizon.webp # light mode
-    dark: /images/Big Sur Mountains.webp # dark mode
+    light: /images/mountains-island-morning-foggy-stock.jpg # light mode
+    dark: /images/mountains-island-evening-twilight-sunset.jpg # dark mode
   # Home banner title
   title: Lihong Gao's Website
   # Home banner subtitle
@@ -172,7 +172,7 @@ home_banner:
     links:
       github: https://github.com/Epiphany-Leon # your GitHub URL
       twitter: https://x.com/golhng6 # your twitter URL
-      fa-solid fa-blog: https://mp.weixin.qq.com/mp/homepage?__biz=MzkxNjMxODc3Nw==&hid=1&sn=29646593c02cb16fe5b7f61b9180fb49&scene=18#wechat_redirect
+      fa-solid fa-blog: https://mp.weixin.qq.com/mp/homepage?__biz=MzkxNjMxODc3Nw==&hid=1&sn=29646593c02cb16fe5b7f61b9180fb49&scene=18#wechat_redirect # your blog URL
       email: lihong_gao828@protonmail.com # your email
       # ...... # you can add more
     # Social links with QRcode drawers
@@ -211,7 +211,7 @@ navbar:
     #   path: https://status.ohevan.com/
     #   icon: fa-regular fa-chart-bar
     About: 
-      path: /about/
+      path: /about/index.md
       icon: fa-regular fa-user
     Links: 
       icon: fa-regular fa-link
