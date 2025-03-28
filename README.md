@@ -12,4 +12,6 @@ Admittedly, this website is not a perfect one, but it's enough for me to show so
 
 Actually, I'm not a web developer, so if you find some problems in my website (both in spelling mistakes and deploying problems), please contact me!
 
-- Email: lihong_gao828@protonmail.com
+- Email: 
+  - lihong_gao828@protonmail.com
+  - lgao28@jh.edu
