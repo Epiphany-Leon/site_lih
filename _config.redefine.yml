@@ -57,9 +57,9 @@ global:
       url:  https://cdn.jsdelivr.net/fontsource/fonts/maple-mono@latest/latin-400-normal.woff2  # Font URL to CSS file
     # English fonts
     english: 
-      enable: false # Whether to enable custom english fonts
-      family:  # Font family
-      url:  # Font URL to CSS file
+      enable: true # Whether to enable custom english fonts
+      family:  'Maple Mono' # Font family
+      url:  https://cdn.jsdelivr.net/fontsource/fonts/maple-mono@latest/latin-400-normal.woff2  # Font URL to CSS file
     # Custom title fonts (navbar, sidebar)
     title:
       enable: false # Whether to enable custom title fonts
