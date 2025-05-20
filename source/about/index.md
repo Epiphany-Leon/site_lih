@@ -7,8 +7,7 @@ date: 2025-02-21
 
 ## Education
 - **[Johns Hopkins University](https://www.jhu.edu/)**
-
-MS Business Analytics and Artificial Intelligence | Fall 2025
+  - MS Business Analytics and Artificial Intelligence | Fall 2025
 
 - **[Shanghai University of Internatinal Business and Economics](https://www.suibe.edu.cn/)**
 - Dual Bachelor Program in coalition with **[Douglas College, Canada](https://www.douglascollege.ca/)**
@@ -22,13 +21,13 @@ MS Business Analytics and Artificial Intelligence | Fall 2025
 
 
 ## Interests
-1. **My Blogs:**
+- **My Blogs:**
   - [Website for Blog](https://epiphany-leon.github.io/MyBlog/), built by *Vitepress* 
     - Actually, I am considering migrating all the blogs here, so you won’t need to look for articles in different places.
     - If I do so, it would be a big project because of the different rules between **Vitepress** and **Hexo**. So, it is still under consideration.
   - [Weixin Official Accounts](https://mp.weixin.qq.com/mp/homepage?__biz=MzkxNjMxODc3Nw==&hid=1&sn=29646593c02cb16fe5b7f61b9180fb49&scene=18#wechat_redirect) 
-2. **Hobbies:** Programming, Singing, Musicals, Anime, Reading, Writing, Tennis, Aerobic Exercise, Mysticism, Philosophy, History, Mythology
-3. **Emails:** 
+- **Hobbies:** Programming, Singing, Musicals, Anime, Reading, Writing, Tennis, Aerobic Exercise, Mysticism, Philosophy, History, Mythology
+- **Emails:** 
   - lgao28@jh.edu
   - leon_gao2002@126.com
   - lihong_gao828@protonmail.com
