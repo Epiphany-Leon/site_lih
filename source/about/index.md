@@ -29,5 +29,5 @@ date: 2025-02-21
 - **Hobbies:** Programming, Singing, Musicals, Anime, Reading, Writing, Tennis, Aerobic Exercise, Mysticism, Philosophy, History, Mythology
 - **Emails:** 
   - lgao28@jh.edu
-  - leon_gao2002@126.com
+  - lihong_gao2002@foxmail.com
   - lihong_gao828@protonmail.com

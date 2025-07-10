@@ -14,5 +14,5 @@ Actually, I'm not a web developer, so if you find some problems in my website (b
 
 - Email: 
   - lgao28@jh.edu
-  - leon_gao2002@126.com
+  - lihong_gao2002@foxmail.com
   - lihong_gao828@protonmail.com
