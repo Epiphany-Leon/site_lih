@@ -5,6 +5,10 @@ date: 2025-02-21
 
 👋 ​Hi, this is Lihong Gao.
 
+[CV English version](/_data/英文简历_GaoLihong-0615.pdf)
+
+[CV Chinese Version](/_data/中文简历_高里鸿-0615.pdf)
+
 ## Education
 - **[Johns Hopkins University](https://www.jhu.edu/)**
   - MS Business Analytics and Artificial Intelligence | Fall 2025
@@ -15,7 +19,7 @@ date: 2025-02-21
   - Bachelor of Business Administration, Douglas College 
 
 
-## Publication
+## Publications
 - **L. Gao**, From Cogs to Connectivity: Fintech and the Industrial Revolution of Finance, *Advances in Economics*, *Management and Political Sciences*, Vol. 72, 192-200 (May, 2024) 
 - **L. Gao**, J. Zhang, Status and Prospects of HKG Offshore Market based on RMB Internationalization: A Non-linear Regression Model Using Granger-causality Test, *2023 8th International Conference on Social Sciences and Economic Development (ICSSED 2023)*, Volume 163, 2023 (April, 2023) 
 
