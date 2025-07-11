@@ -7,8 +7,8 @@ date: 2025-02-21
 
 ## CV
 You can find my full resume here:
-- [CV English version](/_posts/files/英文简历_GaoLihong-0615.pdf)
-- [CV Chinese Version](/_posts/files/中文简历_高里鸿-0615.pdf)
+- [CV English version](/files/英文简历_GaoLihong-0615.pdf)
+- [CV Chinese Version](/files/中文简历_高里鸿-0615.pdf)
 
 ## Education
 - **[Johns Hopkins University](https://www.jhu.edu/)**
