@@ -362,10 +362,10 @@ comment:
     
     # Gitalk comment system. See https://github.com/gitalk/gitalk
     gitalk:
-      clientID: # GitHub Application Client ID
-      clientSecret: # GitHub Application Client Secret
-      repo: # GitHub repository
-      owner: # GitHub repository owner
+      clientID: Ov23li8UtuRvkStCmdHo # GitHub Application Client ID
+      clientSecret: 605f6b7ef7d45a6ed72a8fe91dc5098707ffc9ce # GitHub Application Client Secret
+      repo: Gitalk_site_lih # GitHub repository
+      owner: Epiphany-Leon # GitHub repository owner
       proxy: # GitHub repository proxy
     # Twikoo comment system. See https://twikoo.js.org/
     # twikoo:
