@@ -346,7 +346,7 @@ articles:
 # Docs: https://redefine-docs.ohevan.com/posts/comment
 comment:
   # Whether to enable comment
-  enable: false
+  enable: true
   # Comment system
   system: gitalk # waline, gitalk, twikoo, giscus
   # System configuration
@@ -361,19 +361,20 @@ comment:
     #   reaction: false # Waline reaction. See https://waline.js.org/reference/client/props.html#reaction
     
     # Gitalk comment system. See https://github.com/gitalk/gitalk
-    gitalk:
-      clientID: Ov23li8UtuRvkStCmdHo # GitHub Application Client ID
-      clientSecret: d10649e8153a7cebacbd401c0cb0b09a7fa4a96f # GitHub Application Client Secret
-      repo: gitalk_site # GitHub repository
-      owner: Epiphany-Leon # GitHub repository owner
-      # proxy: # GitHub repository proxy
+    # gitalk:
+    #   clientID: Ov23li8UtuRvkStCmdHo # GitHub Application Client ID
+    #   clientSecret: d10649e8153a7cebacbd401c0cb0b09a7fa4a96f # GitHub Application Client Secret
+    #   repo: gitalk_site # GitHub repository
+    #   owner: Epiphany-Leon # GitHub repository owner
+    #   # proxy: # GitHub repository proxy
     
     # Twikoo comment system. See https://twikoo.js.org/
-    # twikoo:
-    #   version: 1.6.10 # Twikoo version, do not modify if you dont know what it is
-    #   server_url: # Twikoo server URL. e.g. https://example.example.com
-    #   region: # Twikoo region. can be empty
-    # # Giscus comment system. See https://giscus.app/
+    twikoo:
+      version: 1.6.10 # Twikoo version, do not modify if you dont know what it is
+      server_url: https://twikoo-api-seven-omega.vercel.app/ # Twikoo server URL. e.g. https://example.example.com
+      region: # Twikoo region. can be empty
+    
+    # Giscus comment system. See https://giscus.app/
     # giscus:
     #   repo: # Github repository name e.g. EvanNotFound/hexo-theme-redefine
     #   repo_id: # Github repository id
