@@ -366,6 +366,7 @@ comment:
       clientSecret: d10649e8153a7cebacbd401c0cb0b09a7fa4a96f # GitHub Application Client Secret
       repo: gitalk_site # GitHub repository
       owner: Epiphany-Leon # GitHub repository owner
+      redirect_uri: https://epiphany-leon.github.io/site_lih/
       # proxy: # GitHub repository proxy
     
     # Twikoo comment system. See https://twikoo.js.org/
