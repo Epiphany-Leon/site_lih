@@ -363,8 +363,8 @@ comment:
     # Gitalk comment system. See https://github.com/gitalk/gitalk
     gitalk:
       clientID: Ov23li8UtuRvkStCmdHo # GitHub Application Client ID
-      clientSecret: 605f6b7ef7d45a6ed72a8fe91dc5098707ffc9ce # GitHub Application Client Secret
-      repo: Gitalk_site_lih # GitHub repository
+      clientSecret: d10649e8153a7cebacbd401c0cb0b09a7fa4a96f # GitHub Application Client Secret
+      repo: gitalk_site # GitHub repository
       owner: Epiphany-Leon # GitHub repository owner
       # proxy: # GitHub repository proxy
     
