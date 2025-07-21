@@ -5,7 +5,7 @@ tags:
   - Record
 categories:
   - Blog
-    - 记录
+  - 记录
 excerpt: 为安装PyQt5而走的各种弯路
 ---
 
