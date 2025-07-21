@@ -2,10 +2,10 @@
 title: 记录｜为安装PyQt5而走的各种弯路
 date: 2022-05-28
 tags:
-  - Record
+ - Record
 categories:
-  - Blog
-  - 记录
+ - Blog
+ - 记录
 excerpt: 为安装PyQt5而走的各种弯路
 ---
 

@@ -2,11 +2,11 @@
 title: 印刻 repo（集齐三位卡版
 date: 2025-07-07
 tags: 
-	- Record
-	- Musical
+ - Record
+ - Musical
 categories:
-	- Blog
-	- Repo
+ - Blog
+ - Repo
 excerpt: 印刻 repo（集齐三位卡版
 ---
 

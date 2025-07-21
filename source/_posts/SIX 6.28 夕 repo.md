@@ -2,8 +2,8 @@
 title: SIX 6.28 夕 repo
 date: 2025-07-07
 tags: 
-	- Record
-	- Musical
+ - Record
+ - Musical
 categories: Repo
 excerpt: SIX 6.28 夕 repo
 ---

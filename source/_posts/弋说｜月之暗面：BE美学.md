@@ -2,11 +2,11 @@
 title: 弋说｜月之暗面：BE美学
 date: 2024-03-11
 tags: 
-	- Record
-	- 弋说
+ - Record
+ - 弋说
 categories:
-	- Blog
-  	- 记录
+ - Blog
+ - 记录
 excerpt: 在这片暗影之中，悲剧以其超凡脱俗的美感，与常规审美形成鲜明对比，宛如穿越东非大裂谷的奇幻之旅。
 ---
 
