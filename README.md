@@ -8,7 +8,7 @@ And this website is working well, you can access my website through this [link](
 
 Admittedly, this website is not a perfect one, but it's enough for me to show something about the life. I'm trying to learn and record my life. 
 
-Once I wanna migrate all the blogs on the ==MyBlog== to this one, and now it was done. All the posts can be accessed both on this ==site_lih== and my [Weixin Official Accounts](https://mp.weixin.qq.com/mp/homepage?__biz=MzkxNjMxODc3Nw==&hid=1&sn=29646593c02cb16fe5b7f61b9180fb49&scene=18#wechat_redirect).
+Once I wanna migrate all the blogs on the **MyBlog** to this one, and now it was done. All the posts can be accessed both on this **site_lih** and my [Weixin Official Accounts](https://mp.weixin.qq.com/mp/homepage?__biz=MzkxNjMxODc3Nw==&hid=1&sn=29646593c02cb16fe5b7f61b9180fb49&scene=18#wechat_redirect).
 
 Sincerely, hope you have a nice journey to my site!
 
