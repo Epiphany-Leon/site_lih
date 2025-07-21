@@ -5,7 +5,7 @@ date: 2025-02-21
 
 {% tabs 页面内不重复的ID %}
  
-<!-- English -->
+<!-- tab English -->
  
 👋 ​Hi, this is **Lihong Gao**.
 
@@ -51,7 +51,7 @@ You can reach me through the following ways:
  
 <!-- endtab -->
 
-<!-- 中文 -->
+<!-- tab 中文 -->
  
 👋嗨，这里是**高里鸿**。
 
