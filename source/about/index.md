@@ -9,7 +9,7 @@ date: 2025-02-21
  
 👋 ​Hi, this is **Lihong Gao**.
 
-You can find my full resume here:[CV English version](../files/英文简历_GaoLihong-0615.pdf)
+You can find my full resume here: [CV English version](../files/英文简历_GaoLihong-0615.pdf)
 
 ## Education
 ### [Johns Hopkins University - Carey Business School](https://carey.jhu.edu/)
@@ -37,6 +37,8 @@ You can find my full resume here:[CV English version](../files/英文简历_GaoL
 ### Hobbies
 Programming, Singing, **Musicals**, Anime, Comics, Reading, **Writing**, **Tennis**, Aerobic Exercise, Mysticism, **Philosophy**, **History**, Mythology
 
+*Experience, enjoy and conquer MY LIFE!*
+
 
 ## Contact
 You can reach me through the following ways:
@@ -53,15 +55,15 @@ You can reach me through the following ways:
 
 <!-- tab 中文 -->
  
-👋嗨，这里是**高里鸿**。
+👋 嗨，这里是**高里鸿**。
 
 这是我的完整版中文简历：[CV 中文版](../files/中文简历_高里鸿-0721.pdf)
 
 ## 学习经历
 ### [约翰斯·霍普金斯大学凯瑞商学院](https://carey.jhu.edu/)
   - 硕士｜商业分析与人工智能｜2025 年秋季
-### [上海对外经贸大学]（https://www.suibe.edu.cn/）
- - 与[加拿大道格拉斯学院](https：//www.douglascollege.ca/)合作的双学士学位项目 | 2021-2025
+### [上海对外经贸大学](https://www.suibe.edu.cn/)
+ - 与[**加拿大道格拉斯学院**](https：//www.douglascollege.ca/)合作的双学士学位项目 | 2021-2025
    - 经济学学士学位，SUIBE
    - Bachelor of Business Administration - Financial Services, Douglas College 
 
@@ -84,11 +86,11 @@ You can reach me through the following ways:
 
 
 ## 联系我
-您可以通过以下任意方式找到我：
+您可以通过以下任意方式找到我
 ### 社交媒体
-- 微信：leon_gao2002（加我请备注【姓名+意图】，否则一律不予通过）
-- QQ：1114614335（加我请备注【姓名+意图】，否则一律不予通过）
-- [小红书]（https://www.xiaohongshu.com/user/profile/62ce6b2b00000000020004ef）
+- 微信：leon_gao2002（**加我请备注【姓名+意图】，否则一律不予通过**）
+- QQ：1114614335（**加我请备注【姓名+意图】，否则一律不予通过**）
+- [小红书](https://www.xiaohongshu.com/user/profile/62ce6b2b00000000020004ef)
 - [GitHub](https://github.com/Epiphany-Leon)
 - [Instagram](https://www.instagram.com/lihgao888/)
 ### 电子邮件
