@@ -16,7 +16,7 @@ You can find my full resume here:
 ### [Shanghai University of Internatinal Business and Economics](https://www.suibe.edu.cn/)
 - Dual Bachelor Program in coalition with **[Douglas College, Canada](https://www.douglascollege.ca/)** | 2021-2025
   - Bachelor of Economics in Finance, SUIBE
-  - Bachelor of Business Administration, Douglas College 
+  - Bachelor of Business Administration - Financial Services, Douglas College 
 
 
 ## Publications
@@ -26,10 +26,12 @@ You can find my full resume here:
 
 ## Interests
 ### My Blogs
+- [Weixin Official Accounts](https://mp.weixin.qq.com/mp/homepage?__biz=MzkxNjMxODc3Nw==&hid=1&sn=29646593c02cb16fe5b7f61b9180fb49&scene=18#wechat_redirect) 
+  - You can access my blogs here. All the blogs are written in Chinese.
 - [Website for Blog](https://epiphany-leon.github.io/MyBlog/), built by *Vitepress* 
   - Actually, I am considering migrating all the blogs here, so you won’t need to look for articles in different places.
   - If I do so, it would be a big project because of the different rules between **Vitepress** and **Hexo**. So, it is still under consideration.
-- [Weixin Official Accounts](https://mp.weixin.qq.com/mp/homepage?__biz=MzkxNjMxODc3Nw==&hid=1&sn=29646593c02cb16fe5b7f61b9180fb49&scene=18#wechat_redirect) 
+  - ==**Now this has been done! All the blogs have been migrated to this website. The former site will be *Archived*.**==
 ### Hobbies
 Programming, Singing, **Musicals**, Anime, Comics, Reading, **Writing**, **Tennis**, Aerobic Exercise, Mysticism, **Philosophy**, **History**, Mythology
 
@@ -44,4 +46,3 @@ You can reach me through the following ways:
 ### Email:
 - lgao28@jh.edu
 - lihong_gao2002@foxmail.com
-- lihong_gao828@protonmail.com

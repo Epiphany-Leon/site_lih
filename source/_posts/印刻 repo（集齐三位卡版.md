@@ -4,7 +4,9 @@ date: 2025-07-07
 tags: 
 	- Record
 	- Musical
-categories: Repo
+categories:
+	- Blog
+	- Repo
 excerpt: 印刻 repo（集齐三位卡版
 ---
 
