@@ -60,7 +60,7 @@ You can reach me through the following ways:
 这是我的完整版中文简历：[CV 中文版](../files/中文简历_高里鸿-0721.pdf)
 
 ## 学习经历
-### [约翰斯·霍普金斯大学凯瑞商学院](https://carey.jhu.edu/)
+### [约翰·霍普金斯大学 - 凯瑞商学院](https://carey.jhu.edu/)
   - 硕士｜商业分析与人工智能｜2025 年秋季
 ### [上海对外经贸大学](https://www.suibe.edu.cn/)
  - 与[**加拿大道格拉斯学院**](https：//www.douglascollege.ca/)合作的双学士学位项目 | 2021-2025
