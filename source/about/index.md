@@ -9,7 +9,7 @@ date: 2025-02-21
  
 👋 ​Hi, this is **Lihong Gao**.
 
-You can find my full resume here: [CV English version](../files/英文简历_GaoLihong-0615.pdf)
+You can find my full resume here: [CV English version](../files/英文简历_LihongGAO-0817.pdf)
 
 ## Education
 ### [Johns Hopkins University - Carey Business School](https://carey.jhu.edu/)
