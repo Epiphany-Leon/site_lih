@@ -15,7 +15,7 @@ You can find my full resume here: [CV English version](../files/英文简历_Lih
 ### [Johns Hopkins University - Carey Business School](https://carey.jhu.edu/)
   - MS Business Analytics and Artificial Intelligence | Fall 2025
 
-### [Shanghai University of Internatinal Business and Economics](https://www.suibe.edu.cn/)
+### [Shanghai University of International Business and Economics](https://www.suibe.edu.cn/)
 - Dual Bachelor Program in coalition with **[Douglas College, Canada](https://www.douglascollege.ca/)** | 2021-2025
   - Bachelor of Economics in Finance, SUIBE
   - Bachelor of Business Administration - Financial Services, Douglas College 
