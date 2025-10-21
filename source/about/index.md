@@ -9,7 +9,7 @@ date: 2025-02-21
  
 👋 ​Hi, this is **Lihong Gao**.
 
-You can find my full resume here: [CV English version](../files/英文简历_LihongGAO-0817.pdf)
+You can find my full resume here: [CV English version](../files/Lihong GAO_en_0930.pdf)
 
 ## Education
 ### [Johns Hopkins University - Carey Business School](https://carey.jhu.edu/)
@@ -37,7 +37,7 @@ You can find my full resume here: [CV English version](../files/英文简历_Lih
 ### Hobbies
 Programming, Singing, **Musicals**, Anime, Comics, Reading, **Writing**, **Tennis**, Aerobic Exercise, Mysticism, **Philosophy**, **History**, Mythology
 
-*Experience, enjoy and conquer MY LIFE!*
+***Experience, enjoy and conquer MY LIFE!***
 
 
 ## Contact
@@ -57,7 +57,7 @@ You can reach me through the following ways:
  
 👋 嗨，这里是**高里鸿**。
 
-这是我的完整版中文简历：[CV 中文版](../files/中文简历_高里鸿-0721.pdf)
+这是我的完整版中文简历：[CV 中文版](../files/Lihong GAO_zh_1009.pdf)
 
 ## 学习经历
 ### [约翰·霍普金斯大学 - 凯瑞商学院](https://carey.jhu.edu/)
