@@ -24,13 +24,13 @@ You can find my PORTFOLIO website here: [lihong-gao-portfolio](https://lihong-ga
 ### My Blogs
 - [Weixin Official Accounts](https://mp.weixin.qq.com/mp/homepage?__biz=MzkxNjMxODc3Nw==&hid=1&sn=29646593c02cb16fe5b7f61b9180fb49&scene=18#wechat_redirect) 
   - You can access my blogs here. All the blogs are written in Chinese.
-- [Website for Blog](https://epiphany-leon.github.io/MyBlog/), built by *Vitepress* 
+- 【<mark>Archived</mark>】[Website for Blog](https://epiphany-leon.github.io/MyBlog/), built by *Vitepress* 
   - Actually, I am considering migrating all the blogs here, so you won’t need to look for articles in different places. If I do so, it would be a big project because of the different rules between **Vitepress** and **Hexo**. So, it is still under consideration.
   - **Now this has been done! All the blogs have been migrated to this website. The former site will be *Archived*.**
 ### Hobbies
 Programming, Singing, **Musicals**, Anime, Comics, Reading, **Writing**, **Tennis**, Aerobic Exercise, Mysticism, **Philosophy**, **History**, Mythology
 
-***Experience, enjoy and conquer MY LIFE!***
+***<mark>Experience, enjoy and conquer MY LIFE!</mark>***
 
 
 ## Contact
